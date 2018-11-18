@@ -1,2 +1,5 @@
 # recap-python
-Repository to revise, document and and create examples for Python language.
+Repository to revise and document Python laguage.
+
+## Repository structure
+  * Will be creating seprate branches in this repository for different topics.
