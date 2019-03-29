@@ -22,6 +22,15 @@ Repository to revise and document Python laguage.
   ```
   
   #### Collections
-   * list : ordered collections of elements. ``` list_grades = [1,2,3,4,5,6] ```   
-   * tuples : similar to list but immutable. ``` tuple_grades = (1,2,3,4,5,6) ```
-   * sets : unordered, unique collection of elements. ``` set_grades = {1,2,33,33,4,5} ```
+   * list : ordered collections of elements. 
+   ``` list_grades = [1,2,3,4,5,6] ```
+   ``` list_grades.append(7) ```
+   ``` list_grades[0] = 11 ```
+   * tuples : similar to list but immutable.
+   ``` tuple_grades = (1,2,3,4,5,6) ```
+   ``` new_tuple = (1,)
+       more_tuple_ex = (1,2,3)  
+   ```
+   * sets : unordered, unique collection of elements.
+   ``` set_grades = {1,2,33,33,4,5} ```
+   ``` set_grades.add(10) ```
