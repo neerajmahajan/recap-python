@@ -6,6 +6,8 @@ Repository to revise and document Python laguage.
   * y =20
   * single_quote_string = 'my string'
   * double_quote_string = "other string"
+  * single_quote_string[0] will return m
+  * strings are sequence of letters
   
  #### Methods
   * Method is created with def keyword
@@ -29,8 +31,12 @@ Repository to revise and document Python laguage.
    * tuples : similar to list but immutable.
    ``` tuple_grades = (1,2,3,4,5,6) ```
    ``` new_tuple = (1,)
+       tuple_another = 1,
        more_tuple_ex = (1,2,3)  
    ```
    * sets : unordered, unique collection of elements.
    ``` set_grades = {1,2,33,33,4,5} ```
    ``` set_grades.add(10) ```
+   ``` intersection ```
+   ``` union ```
+   ``` difference ```
