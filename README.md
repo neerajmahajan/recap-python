@@ -44,7 +44,7 @@ Repository to revise and document Python laguage.
 * https://realpython.com/python-modules-packages/
 * module is just a python file, which can have variables,function,classes or print statements
 * a module can be executed as a script or can be imported in another module using import statement.
-*  ``` python module_name.py ``` will execute the code inside the module and when a module is executed as a script, the __name__ variable is set a value of __main__ eg below
+*  ``` python module_name.py ``` will execute the code inside the module and when a module is executed as a script, the __name__ variable is set a value of __main eg below
 ```
 if (__name__ == '__main__'):
     print('Executing as standalone script')
